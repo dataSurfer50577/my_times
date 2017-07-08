@@ -3,26 +3,25 @@ header {
   font-size: 14px;
   font-weight: bold;
   color: MediumAquamarine;
-  border: 1px solid black;
 }
 
 body {
+}
+
+div {
   border: 1px solid black;
 }
 
 .column.large {
   width: 630px;
-  border: 1px solid black;
 }
 
 .column.medium {
   width: 300px;
-  border: 1px solid black;
 }
 
 .column.small {
   width: 240px;
-  border: 1px solid black;
 }
 
 .column {
@@ -31,11 +30,9 @@ body {
 }
 
 .lead-story {
-  border: 1px solid black;
 }
 
 .story {
-  border: 1px solid black;
 }
 
 .content {
@@ -43,52 +40,39 @@ body {
 }
 
 .text-content {
-  border: 1px solid black;
 }
 
 .narrative {
-  border: 1px solid black;
 }
 
 .stories {
-  border: 1px solid black;
 }
 .image-content {
-  border: 1px solid black;
 }
 
 .fall-cancelled.image-content {
-  border: 1px solid black;
 }
 
 .fall-cancelled {
-  border: 1px solid black;
 }
 
 .pop-culture.image-content {
-  border: 1px solid black;
 }
 
 .pop-culture {
-  border: 1px solid black;
 }
 
 .cat-ceo.image-content {
-  border: 1px solid black;
 }
 
 .cat-ceo {
-  border: 1px solid black;
 }
 
 .cookie {
-  border: 1px solid black;
 }
 
 .news-bites {
-  border: 1px solid black;
 }
 
 .bite {
-  border: 1px solid black;
 }
